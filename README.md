@@ -23,10 +23,10 @@ A real-time position recognition and localization system for Tello UAVs based on
 * **19-Point Full-Process**: A comprehensive exploration of complex scenarios (provided as a reference for large-scale dataset performance).
 
 ### 📂 Repository Structure
-* `/dataset`: Standardized data collection samples.
-* `/10_point_experiment`: Source code and logs for the core 10-point recognition experiment.
-* `/19_point_reference`: Experimental data for the 19-point full-process (Reference only).
-* `/reports`: Final presentation (PPT) and technical reports.
+* `/new_criterion`: Standardized data collection samples.
+* `/tello_10points`: Source code and logs for the core 10-point recognition experiment.
+* `/tello_19points`: Experimental data for the 19-point full-process (Reference only).
+* `/The final report`: Final presentation (PPT) and technical reports.
 * `/references`: Key academic papers and documentation.
 
 ---
@@ -50,10 +50,10 @@ A real-time position recognition and localization system for Tello UAVs based on
 * **19 点全流程实验**：针对更复杂场景的全流程探索。由于时间与数据集规模限制，目前作为实验参考。
 
 ### 📂 仓库结构
-* `/dataset`: 标准化采集的数据集样本。
-* `/10_point_experiment`: 10 点识别核心实验代码与日志。
-* `/19_point_reference`: 19 点全流程实验参考数据。
-* `/reports`: 期末答辩 PPT 及结课报告。
+* `/new_criterion`: 标准化采集的数据集样本。
+* `/tello_10points`: 10 点识别核心实验代码与日志。
+* `/tello_19points`: 19 点全流程实验参考数据。
+* `/The final report`: 期末答辩 PPT 及结课报告。
 * `/references`: 相关参考文献。
 
 ---
